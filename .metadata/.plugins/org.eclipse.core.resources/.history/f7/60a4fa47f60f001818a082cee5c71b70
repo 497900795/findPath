@@ -24,28 +24,16 @@ public class Dijkstra {
     private static int  path[][] = new int [NUM][NUM];
     //函数
     Dijkstra(){
-    	System.out.print("请输入开始结点:");
-    	Scanner input=new Scanner(System.in);	
-    	start = input.nextInt();
-    	System.out.print("请输入目标结点:");
-    	end = input.nextInt();
-    	input.close();
-    	//path初始化
-    	for(int i = 0;i < NUM;i++){
-    		flag[i] = false;
-    		dist[i] = Graph[start][i];
-    		for(int j = 0;j < NUM;j++){
-    			path[i][j] = -1;
-    		}
-    		if(dist[i] != 0 && dist[i] != N){
-    			path[i][0] = start;
-    		}
-    	}
-    	dist[start] = 0;
-    	flag[start] = true;
+    	System.out.println("cnm");
     }
-        
-    public void dijkstra(){
+    public static void main(String[] args) {
+    	Dijkstra dij = new Dijkstra();
+    	dij.init();
+    	dij.dijkstra();
+    	dij.showResult();
+    }
+    
+    public static void dijkstra(){
     	int min,v=0;
     	int k;
     	for(int i = 1; i < NUM;i++){
@@ -78,7 +66,30 @@ public class Dijkstra {
     	}//outFor
     }
     
-    public void showResult(){
+    public static void init(){
+    	//确定开始结点
+    	System.out.print("请输入开始结点:");
+    	Scanner input=new Scanner(System.in);	
+    	start = input.nextInt();
+    	System.out.print("请输入目标结点:");
+    	end = input.nextInt();
+    	input.close();
+    	//path初始化
+    	for(int i = 0;i < NUM;i++){
+    		flag[i] = false;
+    		dist[i] = Graph[start][i];
+    		for(int j = 0;j < NUM;j++){
+    			path[i][j] = -1;
+    		}
+    		if(dist[i] != 0 && dist[i] != N){
+    			path[i][0] = start;
+    		}
+    	}
+    	dist[start] = 0;
+    	flag[start] = true;
+    }
+    
+    public static void showResult(){
     	for(int i = 0;path[end][i] != -1;i++){
     			System.out.print(i + "->");
     	}

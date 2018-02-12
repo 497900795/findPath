@@ -45,7 +45,7 @@ public class Dijkstra {
     	flag[start] = true;
     }
         
-    public void dijkstra(){
+    public static void dijkstra(){
     	int min,v=0;
     	int k;
     	for(int i = 1; i < NUM;i++){
@@ -78,7 +78,7 @@ public class Dijkstra {
     	}//outFor
     }
     
-    public void showResult(){
+    public static void showResult(){
     	for(int i = 0;path[end][i] != -1;i++){
     			System.out.print(i + "->");
     	}

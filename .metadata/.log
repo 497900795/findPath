@@ -1838,3 +1838,60 @@ Java Model Exception: Java Model Status [System {key=Ljava/lang/System;} [in Sys
 	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
 !SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-12 20:56:27.287
 !MESSAGE System {key=Ljava/lang/System;} [in System.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-12 21:07:58.400
+!MESSAGE NLS unused message: SourceAttachmentBlock_filename_label in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-12 21:07:58.418
+!MESSAGE NLS unused message: SourceAttachmentBlock_filename_internal_button in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-12 21:09:42.803
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-12 21:09:42.803
+!MESSAGE Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-12 21:25:39.774
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [String {key=Ljava/lang/String;} [in String.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-12 21:25:39.774
+!MESSAGE String {key=Ljava/lang/String;} [in String.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-12 21:31:59.347
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [System {key=Ljava/lang/System;} [in System.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-12 21:31:59.347
+!MESSAGE System {key=Ljava/lang/System;} [in System.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知

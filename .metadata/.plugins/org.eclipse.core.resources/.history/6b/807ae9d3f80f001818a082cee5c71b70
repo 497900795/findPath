@@ -1,0 +1,26 @@
+package findPath;
+
+public class FindPath {
+	static int startPoint,startBuliding;
+	static int endPoint,endBuliding;
+	//l->Â¥ºÅ¼õ,r->Â¥ºÅ¼Ó,n->²»ÄÜÒÆ¶¯Â¥ºÅ
+	private static char transWay[][] = {{'l','n','r'},
+		{'l','n','r'},};
+	private static int transEnd[][] = {
+		{1,0,5},
+		{2,3,4},
+	};
+
+	public static void main(String[] args) {
+		Dijkstra dij = new Dijkstra();
+		dij.dijkstra();
+		dij.showResult();
+	}
+	
+	FindPath(int startP,int startB,int endP,int endB){
+		startPoint = startP;
+		startBuliding = startB;
+		endPoint = endP;
+		endBuliding = endB;
+	}
+}

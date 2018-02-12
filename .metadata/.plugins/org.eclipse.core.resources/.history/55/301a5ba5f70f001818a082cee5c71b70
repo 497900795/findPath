@@ -1,0 +1,16 @@
+package findPath;
+
+public class FindPath {
+	static int startPoint,startBuliding;
+	static int endPoint,endBuliding;
+	
+	public static void main(String[] args) {
+		Dijkstra dij = new Dijkstra();
+		dij.dijkstra();
+		dij.showResult();
+	}
+	
+	FindPath(int startP,int startB,int endP;int endB){
+		;
+	}
+}
