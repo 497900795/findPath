@@ -50,28 +50,28 @@ public class Dijkstra {
     	int k;
     	for(int i = 1; i < NUM;i++){
     		min = Integer.MAX_VALUE;
-    		for(int j = 0;j < NUM;j++){
-    			if(!flag[j]){
-    				if(dist[j] < min){
-    					v = j;
-    					min = dist[j];
+    		for(int w = 0;w < NUM;w++){
+    			if(!flag[w]){
+    				if(dist[w] < min){
+    					v = w;
+    					min = dist[w];
     				}
     			}
     		}
     		flag[v] = true;
     		
-    		for(int j = 0;j < NUM;j++){
-    			if(!flag[j]&& (min + Graph[v][j]) < dist[j]){
-    				dist[j] = min + Graph[v][j];
+    		for(int w = 0;w < NUM;w++){
+    			if(!flag[w]&& (min + Graph[v][w]) < dist[w]){
+    				dist[w] = min + Graph[v][w];
     				
     				//¸üÐÂpath
     				for(int m = 0;m < NUM;m++){
-    					path[j][m] = path[v][m];
+    					path[w][m] = path[v][m];
     				}
-    				for(k = 0;k < NUM && path[j][k] != -1;){
+    				for(k = 0;k < NUM && path[w][k] != -1;){
     					k++;		
     				}
-    				path[j][k] = j;
+    				path[w][k] = w;
     				
    			}
     		}//innerFor

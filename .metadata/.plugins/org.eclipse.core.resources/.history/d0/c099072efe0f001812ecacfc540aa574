@@ -28,6 +28,7 @@ public class FindPath {
 			{0,1,2,},
 		},
 	};
+
 	//c->能移动楼层,n->不能移动楼层
 	private static char transFloorWay[][][] = {
 		//每一维分别为楼、楼层、所在点
@@ -67,16 +68,11 @@ public class FindPath {
 	}
 	
 	public char sureFloorWay(){
-		if(startFloor == endFloor){
-			return 'n';
-		}
-		else{
-			return 'c';
-		}
+		
 	}
 	
-	public void resetStartPoint(int transPoint,int transFloor,int transBuliding){
-		startPoint = transBulidingEnd[transBuliding][transFloor][transPoint];
+	public void resetStartPoint(int transPoint,int transBuliding){
+		startPoint = transEnd[transBuliding][transPoint];
 	}
 	
 }
