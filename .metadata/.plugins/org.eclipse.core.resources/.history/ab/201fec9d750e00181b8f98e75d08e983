@@ -1,0 +1,93 @@
+package findPath;
+import java.util.Scanner;
+public class Dijkstra {
+	//常量
+    private static int N = Integer.MAX_VALUE/2;
+    private static int Graph[][] = {
+            { 0, 1, 1, N, N, N, N, N, N },
+            { 1, 0, 1, 1, 1, N, N, N, N },
+            { 1, 1, 0, N, 1, 1, N, N, N },
+            { N, 1, N, 0, 1, N, 1, N, N },
+            { N, 1, 1, 1, 0, 1, 1, 1, N },
+            { N, N, 1, N, 1, 0, N, 1, N },
+            { N, N, N, 1, 1, N, 0, 1, N },
+            { N, N, N, N, 1, 1, 1, 0, 1 },
+            { N, N, N, N, N, N, N, 1, 0 },
+    };
+    private static int NUM = Graph[0].length;
+    
+    //变量
+    private static int start;
+    private static int end;
+    private static int flag[] = new int [NUM];
+    private static int dist[]  = new int [NUM];
+    private static int  path[][] = new int [NUM][NUM];
+    
+    public static void main(String[] args) {
+    	init();
+        dijkstra();
+        showResult();
+    }
+    
+    public static void dijkstra(){
+    	int min,v=0;
+    	for(int i = 0; i > 0;i++){
+    		min = N;
+    		for(int w = 0;w < NUM;w++){
+    			if(flag[w] == 0){
+    				if(dist[w] < min){
+    					i = w;
+    					min = dist[w];
+    				}
+    			}
+    		}
+    		System.out.println("cnmd");
+    		flag[v] = 1;
+    		
+    		for(int w = 0;w < NUM;w++){
+    			if(flag[w] == 0 && (min + Graph[v][w]) < dist[w]){
+    				dist[w] = min + Graph[v][w];
+    				path[w] = path[v];
+    				path[w][w] = 1;
+    			}
+    		}//innerFor
+    	}//outFor
+    }
+    
+    public static void init(){
+    	//确定开始结点
+    	System.out.print("请输入开始结点:");
+    	Scanner input=new Scanner(System.in);	
+    	start = input.nextInt();
+    	System.out.print("请输入目标结点:");
+    	end = input.nextInt();
+    	input.close();
+    	//path初始化
+    	for(int i = 0;i < NUM;i++){
+    		flag[i] = 0;
+    		dist[i] = Graph[start][i];
+    		if(dist[i] != 0 && dist[i] != N){
+    			path[i][0] = start;
+    		}
+    		for(int j = 0;j < NUM;j++){
+    			path[i][j] = -1;
+    		}
+    		if(dist[i] < N){
+    			path[i][start] = 1;
+    			path[i][i] = 1;
+    		}
+    	}
+    	dist[start] = 0;
+    	flag[start] = 1;
+    }
+    
+    public static void showResult(){
+    	for(int i = 0;i < NUM;i++){
+    		if(path[start][i] != -1){
+    			System.out.print(i + "->");
+    		}	
+    	}
+    	System.out.print("\n");
+    	System.out.println("距离:" + dist[end]);
+    }
+}

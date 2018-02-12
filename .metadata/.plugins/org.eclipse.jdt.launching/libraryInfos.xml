@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\编译器&amp;编辑器\Java\eclipse" version="1.7.0_45">
+<bootpath>
+<entry path="D:\编译器&amp;编辑器\Java\eclipse\jre\lib\resources.jar"/>
+<entry path="D:\编译器&amp;编辑器\Java\eclipse\jre\lib\rt.jar"/>
+<entry path="D:\编译器&amp;编辑器\Java\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="D:\编译器&amp;编辑器\Java\eclipse\jre\lib\jsse.jar"/>
+<entry path="D:\编译器&amp;编辑器\Java\eclipse\jre\lib\jce.jar"/>
+<entry path="D:\编译器&amp;编辑器\Java\eclipse\jre\lib\charsets.jar"/>
+<entry path="D:\编译器&amp;编辑器\Java\eclipse\jre\lib\jfr.jar"/>
+<entry path="D:\编译器&amp;编辑器\Java\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\编译器&amp;编辑器\Java\eclipse\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\编译器&amp;编辑器\Java\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

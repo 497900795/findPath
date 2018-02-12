@@ -1,0 +1,114 @@
+package findPath;
+import java.util.Scanner;
+public class Dijkstra {
+	//常量
+    private static int N = Integer.MAX_VALUE/2;
+    private static int Graph[][] = {
+            { 0, 1, 1, N, N, N, N, N, N },
+            { 1, 0, 1, 1, 1, N, N, N, N },
+            { 1, 1, 0, N, 1, 1, N, N, N },
+            { N, 1, N, 0, 1, N, 1, N, N },
+            { N, 1, 1, 1, 0, 1, 1, 1, N },
+            { N, N, 1, N, 1, 0, N, 1, N },
+            { N, N, N, 1, 1, N, 0, 1, N },
+            { N, N, N, N, 1, 1, 1, 0, N },
+            { N, N, N, N, N, N, N, N, 0 },
+    };
+    private static int NUM = Graph[0].length;
+    
+    //变量
+    private static int start;
+    private static int end;
+    private static int dist[]  = new int [NUM];
+    private static int  path[][] = new int [NUM][NUM];
+    
+    public static void main(String[] args) {
+    	init();
+        dijkstra();
+        showResult();
+    }
+    
+    public static void dijkstra(){
+    	boolean flag = true;
+    	int k,min,m;
+    	
+    	//主循环
+    	while(flag){
+    		//引入k，min
+    		k = 0;
+    		min = N;
+    		for(int j = 0;j < NUM;j++){
+    			if(dist[j] != 0 && dist[j] < min){
+    				k = j;
+    				min = dist[j];
+    			}
+    		}
+    		
+    		//更新path
+    		for(int j = 0;j < NUM;j++){
+    			if(j != k && dist[j] != 0 && dist[j] != N){
+    				if(dist[k] + Graph[k][j] < dist[j]){ 					
+    					dist[j] = dist[k] + Graph[k][j];
+    					for(m = 0;m < NUM;m++){
+    						path[j][m] = path[k][m];
+    					}   					
+    					for(m = 0;m < NUM && path[j][m] != -1;){
+    						m++;
+    					}
+    					path[j][m] = j;
+    				}	
+    			}
+    		}
+    		
+    		dist[k] = 0;
+    		//检测是否完成查询
+			flag = false;
+			for(int i = 0;i < NUM;i++){
+				if(dist[i] != 0 && dist[i] < N){
+					flag = true;
+				}
+			}
+    	}//end_while
+    	
+    	
+    	/* for(int i = 0;i < NUM;i++){
+    		for(int j = 0;j < NUM;j++){
+    			System.out.print(path[i][j] + ",");
+    		}
+    		System.out.println("距离:"+dist[i]);
+    	}*/
+    }
+    
+    public static void init(){
+    	//确定开始结点
+    	System.out.print("请输入开始结点:");
+    	Scanner input=new Scanner(System.in);	
+    	start = input.nextInt();
+    	System.out.print("请输入目标结点:");
+    	end = input.nextInt();
+    	input.close();
+    	//path初始化
+    	for(int i = 0;i < NUM;i++){
+    		for(int j = 0;j < NUM;j++){
+    			path[i][j] = -1;
+    		}		
+    	}
+    	//dist初始化
+    	for(int i = 0;i < NUM;i++){
+    		dist[i] = Graph[start][i];
+    		if(dist[i] != 0 && dist[i] != N){
+    			path[i][0] = start;
+    		}
+    	}	
+    }
+    
+    public static void showResult(){
+    	for(int i = 0;i < NUM;i++){
+    		if(path[start][i] != -1){
+    			System.out.print(path[end][i] + "->");
+    		}	
+    	}
+    	System.out.print("\n");
+    	System.out.println("距离:" + dist[end]);
+    }
+}
