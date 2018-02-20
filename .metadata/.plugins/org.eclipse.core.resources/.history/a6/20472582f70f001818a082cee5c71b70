@@ -1,9 +1,0 @@
-package findPath;
-
-public class FindPath {
-	public static void main(String[] args) {
-		Dijkstra dij = new Dijkstra();
-		dij.dijkstra();
-		dij.showResult();
-	}	
-}

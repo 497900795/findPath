@@ -2199,3 +2199,1366 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.osgi 2 1 2018-02-12 22:10:17.051
 !MESSAGE NLS unused message: TargetPlatformResetJob_resetTarget in: org.eclipse.pde.internal.core.pderesources
+!SESSION 2018-02-15 16:53:42.472 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.230
+!MESSAGE NLS unused message: line_separator_platform_mac_os_9 in: org.eclipse.core.internal.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.234
+!MESSAGE NLS unused message: ViewsPreference_currentPresentation in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.235
+!MESSAGE NLS unused message: ViewsPreference_currentPresentationFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.235
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.236
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.236
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_yes in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.236
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_no in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.237
+!MESSAGE NLS unused message: ViewsPreference_editors in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.237
+!MESSAGE NLS unused message: ViewsPreference_editors_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.237
+!MESSAGE NLS unused message: ViewsPreference_editors_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.238
+!MESSAGE NLS unused message: ViewsPreference_views in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.238
+!MESSAGE NLS unused message: ViewsPreference_views_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.238
+!MESSAGE NLS unused message: ViewsPreference_views_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.239
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.239
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topRight in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.239
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topLeft in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.239
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_left in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.240
+!MESSAGE NLS unused message: ViewsPreference_traditionalTabs in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.240
+!MESSAGE NLS unused message: ViewsPreference_currentTheme in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.240
+!MESSAGE NLS unused message: ViewsPreference_currentThemeDescription in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.241
+!MESSAGE NLS unused message: ViewsPreference_override in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.241
+!MESSAGE NLS unused message: ViewsPreference_currentThemeFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.241
+!MESSAGE NLS unused message: ViewsPreference_restartRequestJobName in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.242
+!MESSAGE NLS unused message: EditorManager_largeDocumentWarning in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:43.458
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:46.779
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_6 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:46.783
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_7 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:46.784
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_8 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:46.784
+!MESSAGE NLS unused message: LaunchConfigurationType_0 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:46.785
+!MESSAGE NLS unused message: LaunchConfigurationType_1 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:47.020
+!MESSAGE NLS unused message: NextThreadNavAction_name in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:47.021
+!MESSAGE NLS unused message: PreviousThreadNavAction_name in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:47.854
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightMatchingBrackets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:48.401
+!MESSAGE NLS unused message: GotoMatchingBracket_error_invalidSelection in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:51.032
+!MESSAGE NLS unused message: StandardVMType_Standard_VM_not_supported_on_MacOS__1 in: org.eclipse.jdt.internal.launching.LaunchingMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:52.734
+!MESSAGE NLS unused message: StepIntoSelectionActionDelegate_Step_into_selection_only_available_in_Java_editor__4 in: org.eclipse.jdt.internal.debug.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:53:53.511
+!MESSAGE NLS unused message: QuickAccess_PressKeyToShowInitialMatches in: org.eclipse.ui.internal.quickaccess.messages
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-15 16:54:06.821
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\惠普'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:54:25.713
+!MESSAGE NLS unused message: JavaDetailFormattersManager_9 in: org.eclipse.jdt.internal.debug.ui.DebugUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:54:29.486
+!MESSAGE NLS unused message: JavadocHover_noAttachments in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:54:29.487
+!MESSAGE NLS unused message: JavadocHover_noAttachedSource in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:54:29.488
+!MESSAGE NLS unused message: JavadocHover_noAttachedJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:54:29.488
+!MESSAGE NLS unused message: JavadocHover_noInformation in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:54:29.489
+!MESSAGE NLS unused message: JavadocHover_error_gettingJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:54:29.489
+!MESSAGE NLS unused message: ProblemHover_chooseSettingsTypeDialog_button_cancel in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-15 16:57:46.955
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_LocalCorrectionsSubProcessor_qualify_right_hand_side_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+!SESSION 2018-02-19 19:51:20.278 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.095
+!MESSAGE NLS unused message: line_separator_platform_mac_os_9 in: org.eclipse.core.internal.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.100
+!MESSAGE NLS unused message: ViewsPreference_currentPresentation in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.101
+!MESSAGE NLS unused message: ViewsPreference_currentPresentationFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.101
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.102
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.102
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_yes in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.102
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_no in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.103
+!MESSAGE NLS unused message: ViewsPreference_editors in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.103
+!MESSAGE NLS unused message: ViewsPreference_editors_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.104
+!MESSAGE NLS unused message: ViewsPreference_editors_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.104
+!MESSAGE NLS unused message: ViewsPreference_views in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.104
+!MESSAGE NLS unused message: ViewsPreference_views_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.105
+!MESSAGE NLS unused message: ViewsPreference_views_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.105
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.106
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topRight in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.106
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topLeft in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.106
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_left in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.107
+!MESSAGE NLS unused message: ViewsPreference_traditionalTabs in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.107
+!MESSAGE NLS unused message: ViewsPreference_currentTheme in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.107
+!MESSAGE NLS unused message: ViewsPreference_currentThemeDescription in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.108
+!MESSAGE NLS unused message: ViewsPreference_override in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.108
+!MESSAGE NLS unused message: ViewsPreference_currentThemeFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.109
+!MESSAGE NLS unused message: ViewsPreference_restartRequestJobName in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.109
+!MESSAGE NLS unused message: EditorManager_largeDocumentWarning in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:21.321
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:25.047
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_6 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:25.051
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_7 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:25.051
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_8 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:25.052
+!MESSAGE NLS unused message: LaunchConfigurationType_0 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:25.053
+!MESSAGE NLS unused message: LaunchConfigurationType_1 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:25.306
+!MESSAGE NLS unused message: NextThreadNavAction_name in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:25.307
+!MESSAGE NLS unused message: PreviousThreadNavAction_name in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:26.253
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightMatchingBrackets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:26.720
+!MESSAGE NLS unused message: GotoMatchingBracket_error_invalidSelection in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:29.284
+!MESSAGE NLS unused message: StandardVMType_Standard_VM_not_supported_on_MacOS__1 in: org.eclipse.jdt.internal.launching.LaunchingMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:30.886
+!MESSAGE NLS unused message: StepIntoSelectionActionDelegate_Step_into_selection_only_available_in_Java_editor__4 in: org.eclipse.jdt.internal.debug.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:31.405
+!MESSAGE NLS unused message: QuickAccess_PressKeyToShowInitialMatches in: org.eclipse.ui.internal.quickaccess.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:32.661
+!MESSAGE NLS unused message: JavaDetailFormattersManager_9 in: org.eclipse.jdt.internal.debug.ui.DebugUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:34.501
+!MESSAGE NLS unused message: JavadocHover_noAttachments in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:34.503
+!MESSAGE NLS unused message: JavadocHover_noAttachedSource in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:34.504
+!MESSAGE NLS unused message: JavadocHover_noAttachedJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:34.505
+!MESSAGE NLS unused message: JavadocHover_noInformation in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:34.506
+!MESSAGE NLS unused message: JavadocHover_error_gettingJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:51:34.506
+!MESSAGE NLS unused message: ProblemHover_chooseSettingsTypeDialog_button_cancel in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-19 19:51:45.068
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\惠普'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 19:56:00.957
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_LocalCorrectionsSubProcessor_qualify_right_hand_side_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-19 19:56:31.416
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [System {key=Ljava/lang/System;} [in System.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-19 19:56:31.418
+!MESSAGE System {key=Ljava/lang/System;} [in System.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:14:07.799
+!MESSAGE NLS unused message: TargetPlatformResetJob_resetTarget in: org.eclipse.pde.internal.core.pderesources
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-19 20:16:03.957
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [Scanner {key=Ljava/util/Scanner;} [in Scanner.class [in java.util [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-19 20:16:03.957
+!MESSAGE Scanner {key=Ljava/util/Scanner;} [in Scanner.class [in java.util [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-19 20:21:44.145
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [String {key=Ljava/lang/String;} [in String.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-19 20:21:44.146
+!MESSAGE String {key=Ljava/lang/String;} [in String.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.178
+!MESSAGE NLS unused message: FeatureBlock_version in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.179
+!MESSAGE NLS unused message: FeatureEditor_AdvancedPage_title in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.180
+!MESSAGE NLS unused message: FeatureEditor_AdvancedPage_heading in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.181
+!MESSAGE NLS unused message: FeatureEditor_HandlerSection_title in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.182
+!MESSAGE NLS unused message: FeatureEditor_HandlerSection_desc in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.182
+!MESSAGE NLS unused message: FeatureEditor_HandlerSection_library in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.183
+!MESSAGE NLS unused message: FeatureEditor_HandlerSection_handler in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.183
+!MESSAGE NLS unused message: FeatureEditor_InstallSection_title in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.184
+!MESSAGE NLS unused message: FeatureEditor_InstallSection_desc in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.184
+!MESSAGE NLS unused message: FeatureEditor_InstallSection_colocation_desc in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.184
+!MESSAGE NLS unused message: FeatureEditor_InstallSection_colocation in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.185
+!MESSAGE NLS unused message: FeatureEditor_InstallSection_exclusive in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.185
+!MESSAGE NLS unused message: FeatureEditor_DataSection_title in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.186
+!MESSAGE NLS unused message: FeatureEditor_DataSection_desc in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.186
+!MESSAGE NLS unused message: FeatureEditor_DataSection_new in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.187
+!MESSAGE NLS unused message: SiteEditor_DataDetailsSection_title in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.187
+!MESSAGE NLS unused message: SiteEditor_DataDetailsSection_desc in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.188
+!MESSAGE NLS unused message: SiteEditor_DataDetailsSection_downloadSize in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.188
+!MESSAGE NLS unused message: SiteEditor_DataDetailsSection_installSize in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.189
+!MESSAGE NLS unused message: MainPreferencePage_exportingGroup in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.191
+!MESSAGE NLS unused message: OpenLogDialog_title in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.191
+!MESSAGE NLS unused message: OpenLogDialog_message in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.192
+!MESSAGE NLS unused message: OpenLogDialog_cannotDisplay in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.193
+!MESSAGE NLS unused message: FeatureImportWizardPage_reload in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.194
+!MESSAGE NLS unused message: FeatureImportWizardPage_reloadLocation in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.195
+!MESSAGE NLS unused message: SplashSection_label in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.197
+!MESSAGE NLS unused message: CVSBundleImportPage_0 in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:31.197
+!MESSAGE NLS unused message: CVSBundleImportPage_2 in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:32.303
+!MESSAGE NLS unused message: TextAutoMerge_inputEncodingError in: org.eclipse.team.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:32.304
+!MESSAGE NLS unused message: TextAutoMerge_outputEncodingError in: org.eclipse.team.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:32.305
+!MESSAGE NLS unused message: TextAutoMerge_outputIOError in: org.eclipse.team.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 20:48:32.305
+!MESSAGE NLS unused message: TextAutoMerge_conflict in: org.eclipse.team.internal.ui.messages
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-19 21:03:06.858
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [System {key=Ljava/lang/System;} [in System.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-19 21:03:06.859
+!MESSAGE System {key=Ljava/lang/System;} [in System.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-19 21:04:36.301
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [String {key=Ljava/lang/String;} [in String.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-19 21:04:36.301
+!MESSAGE String {key=Ljava/lang/String;} [in String.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-19 21:52:00.544
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [Integer [in Integer.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-19 21:52:00.544
+!MESSAGE Integer [in Integer.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+!SESSION 2018-02-19 22:06:07.264 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.213
+!MESSAGE NLS unused message: line_separator_platform_mac_os_9 in: org.eclipse.core.internal.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.217
+!MESSAGE NLS unused message: ViewsPreference_currentPresentation in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.218
+!MESSAGE NLS unused message: ViewsPreference_currentPresentationFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.218
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.218
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.219
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_yes in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.219
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_no in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.219
+!MESSAGE NLS unused message: ViewsPreference_editors in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.220
+!MESSAGE NLS unused message: ViewsPreference_editors_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.220
+!MESSAGE NLS unused message: ViewsPreference_editors_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.220
+!MESSAGE NLS unused message: ViewsPreference_views in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.221
+!MESSAGE NLS unused message: ViewsPreference_views_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.221
+!MESSAGE NLS unused message: ViewsPreference_views_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.221
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.222
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topRight in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.222
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topLeft in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.222
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_left in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.223
+!MESSAGE NLS unused message: ViewsPreference_traditionalTabs in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.223
+!MESSAGE NLS unused message: ViewsPreference_currentTheme in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.223
+!MESSAGE NLS unused message: ViewsPreference_currentThemeDescription in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.224
+!MESSAGE NLS unused message: ViewsPreference_override in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.224
+!MESSAGE NLS unused message: ViewsPreference_currentThemeFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.224
+!MESSAGE NLS unused message: ViewsPreference_restartRequestJobName in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.225
+!MESSAGE NLS unused message: EditorManager_largeDocumentWarning in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:08.440
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:12.466
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_6 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:12.469
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_7 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:12.470
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_8 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:12.471
+!MESSAGE NLS unused message: LaunchConfigurationType_0 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:12.472
+!MESSAGE NLS unused message: LaunchConfigurationType_1 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:12.710
+!MESSAGE NLS unused message: NextThreadNavAction_name in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:12.711
+!MESSAGE NLS unused message: PreviousThreadNavAction_name in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:13.206
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightMatchingBrackets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:13.299
+!MESSAGE NLS unused message: GotoMatchingBracket_error_invalidSelection in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:14.540
+!MESSAGE NLS unused message: StepIntoSelectionActionDelegate_Step_into_selection_only_available_in_Java_editor__4 in: org.eclipse.jdt.internal.debug.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:14.565
+!MESSAGE NLS unused message: StandardVMType_Standard_VM_not_supported_on_MacOS__1 in: org.eclipse.jdt.internal.launching.LaunchingMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:14.819
+!MESSAGE NLS unused message: QuickAccess_PressKeyToShowInitialMatches in: org.eclipse.ui.internal.quickaccess.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:06:15.247
+!MESSAGE NLS unused message: JavaDetailFormattersManager_9 in: org.eclipse.jdt.internal.debug.ui.DebugUIMessages
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-19 22:06:30.049
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\惠普'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:07:14.463
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_LocalCorrectionsSubProcessor_qualify_right_hand_side_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:07:14.478
+!MESSAGE NLS unused message: JavadocHover_noAttachments in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:07:14.479
+!MESSAGE NLS unused message: JavadocHover_noAttachedSource in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:07:14.479
+!MESSAGE NLS unused message: JavadocHover_noAttachedJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:07:14.480
+!MESSAGE NLS unused message: JavadocHover_noInformation in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:07:14.481
+!MESSAGE NLS unused message: JavadocHover_error_gettingJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:07:14.481
+!MESSAGE NLS unused message: ProblemHover_chooseSettingsTypeDialog_button_cancel in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:08:51.944
+!MESSAGE NLS unused message: TargetPlatformResetJob_resetTarget in: org.eclipse.pde.internal.core.pderesources
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-19 22:09:28.351
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-19 22:09:28.353
+!MESSAGE Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-19 22:09:32.005
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-19 22:09:32.005
+!MESSAGE Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+!SESSION 2018-02-19 22:18:56.054 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.199
+!MESSAGE NLS unused message: line_separator_platform_mac_os_9 in: org.eclipse.core.internal.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.205
+!MESSAGE NLS unused message: ViewsPreference_currentPresentation in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.206
+!MESSAGE NLS unused message: ViewsPreference_currentPresentationFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.206
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.207
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.207
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_yes in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.208
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_no in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.208
+!MESSAGE NLS unused message: ViewsPreference_editors in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.209
+!MESSAGE NLS unused message: ViewsPreference_editors_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.209
+!MESSAGE NLS unused message: ViewsPreference_editors_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.209
+!MESSAGE NLS unused message: ViewsPreference_views in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.210
+!MESSAGE NLS unused message: ViewsPreference_views_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.210
+!MESSAGE NLS unused message: ViewsPreference_views_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.211
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.211
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topRight in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.212
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topLeft in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.212
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_left in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.213
+!MESSAGE NLS unused message: ViewsPreference_traditionalTabs in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.213
+!MESSAGE NLS unused message: ViewsPreference_currentTheme in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.213
+!MESSAGE NLS unused message: ViewsPreference_currentThemeDescription in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.214
+!MESSAGE NLS unused message: ViewsPreference_override in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.214
+!MESSAGE NLS unused message: ViewsPreference_currentThemeFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.215
+!MESSAGE NLS unused message: ViewsPreference_restartRequestJobName in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.216
+!MESSAGE NLS unused message: EditorManager_largeDocumentWarning in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:18:57.545
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:03.108
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_6 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:03.112
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_7 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:03.112
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_8 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:03.113
+!MESSAGE NLS unused message: LaunchConfigurationType_0 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:03.114
+!MESSAGE NLS unused message: LaunchConfigurationType_1 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:03.353
+!MESSAGE NLS unused message: NextThreadNavAction_name in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:03.353
+!MESSAGE NLS unused message: PreviousThreadNavAction_name in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:03.850
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightMatchingBrackets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:03.946
+!MESSAGE NLS unused message: GotoMatchingBracket_error_invalidSelection in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:05.224
+!MESSAGE NLS unused message: StandardVMType_Standard_VM_not_supported_on_MacOS__1 in: org.eclipse.jdt.internal.launching.LaunchingMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:05.235
+!MESSAGE NLS unused message: StepIntoSelectionActionDelegate_Step_into_selection_only_available_in_Java_editor__4 in: org.eclipse.jdt.internal.debug.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:05.515
+!MESSAGE NLS unused message: QuickAccess_PressKeyToShowInitialMatches in: org.eclipse.ui.internal.quickaccess.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:08.696
+!MESSAGE NLS unused message: JavadocHover_noAttachments in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:08.697
+!MESSAGE NLS unused message: JavadocHover_noAttachedSource in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:08.697
+!MESSAGE NLS unused message: JavadocHover_noAttachedJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:08.698
+!MESSAGE NLS unused message: JavadocHover_noInformation in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:08.698
+!MESSAGE NLS unused message: JavadocHover_error_gettingJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:19:08.699
+!MESSAGE NLS unused message: ProblemHover_chooseSettingsTypeDialog_button_cancel in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-19 22:19:20.664
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\惠普'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:20:24.254
+!MESSAGE NLS unused message: JavaDetailFormattersManager_9 in: org.eclipse.jdt.internal.debug.ui.DebugUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-19 22:21:30.221
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_LocalCorrectionsSubProcessor_qualify_right_hand_side_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+!SESSION 2018-02-20 19:10:11.743 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.695
+!MESSAGE NLS unused message: line_separator_platform_mac_os_9 in: org.eclipse.core.internal.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.701
+!MESSAGE NLS unused message: ViewsPreference_currentPresentation in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.702
+!MESSAGE NLS unused message: ViewsPreference_currentPresentationFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.702
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.703
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.703
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_yes in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.703
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_no in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.704
+!MESSAGE NLS unused message: ViewsPreference_editors in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.704
+!MESSAGE NLS unused message: ViewsPreference_editors_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.704
+!MESSAGE NLS unused message: ViewsPreference_editors_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.704
+!MESSAGE NLS unused message: ViewsPreference_views in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.705
+!MESSAGE NLS unused message: ViewsPreference_views_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.705
+!MESSAGE NLS unused message: ViewsPreference_views_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.705
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.706
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topRight in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.706
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topLeft in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.706
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_left in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.706
+!MESSAGE NLS unused message: ViewsPreference_traditionalTabs in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.707
+!MESSAGE NLS unused message: ViewsPreference_currentTheme in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.707
+!MESSAGE NLS unused message: ViewsPreference_currentThemeDescription in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.707
+!MESSAGE NLS unused message: ViewsPreference_override in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.707
+!MESSAGE NLS unused message: ViewsPreference_currentThemeFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.708
+!MESSAGE NLS unused message: ViewsPreference_restartRequestJobName in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.709
+!MESSAGE NLS unused message: EditorManager_largeDocumentWarning in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:12.926
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:26.137
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_6 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:26.146
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_7 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:26.147
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_8 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:26.149
+!MESSAGE NLS unused message: LaunchConfigurationType_0 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:26.150
+!MESSAGE NLS unused message: LaunchConfigurationType_1 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:27.013
+!MESSAGE NLS unused message: NextThreadNavAction_name in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:27.014
+!MESSAGE NLS unused message: PreviousThreadNavAction_name in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:30.681
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightMatchingBrackets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:31.488
+!MESSAGE NLS unused message: GotoMatchingBracket_error_invalidSelection in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:36.478
+!MESSAGE NLS unused message: StandardVMType_Standard_VM_not_supported_on_MacOS__1 in: org.eclipse.jdt.internal.launching.LaunchingMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:39.247
+!MESSAGE NLS unused message: StepIntoSelectionActionDelegate_Step_into_selection_only_available_in_Java_editor__4 in: org.eclipse.jdt.internal.debug.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:10:40.124
+!MESSAGE NLS unused message: QuickAccess_PressKeyToShowInitialMatches in: org.eclipse.ui.internal.quickaccess.messages
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-20 19:10:52.963
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\惠普'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:12:19.883
+!MESSAGE NLS unused message: JavadocHover_noAttachments in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:12:19.884
+!MESSAGE NLS unused message: JavadocHover_noAttachedSource in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:12:19.884
+!MESSAGE NLS unused message: JavadocHover_noAttachedJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:12:19.885
+!MESSAGE NLS unused message: JavadocHover_noInformation in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:12:19.885
+!MESSAGE NLS unused message: JavadocHover_error_gettingJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:12:19.886
+!MESSAGE NLS unused message: ProblemHover_chooseSettingsTypeDialog_button_cancel in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:12:22.699
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_LocalCorrectionsSubProcessor_qualify_right_hand_side_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:12:37.357
+!MESSAGE NLS unused message: JavaDetailFormattersManager_9 in: org.eclipse.jdt.internal.debug.ui.DebugUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:12:42.527
+!MESSAGE NLS unused message: LaunchConfigurationTabGroupViewer_0 in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:12:42.527
+!MESSAGE NLS unused message: LaunchConfigurationTabGroupViewer_19 in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:12:42.528
+!MESSAGE NLS unused message: LaunchConfigurationDialog_Cancel_3 in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:13:50.096
+!MESSAGE NLS unused message: TargetPlatformResetJob_resetTarget in: org.eclipse.pde.internal.core.pderesources
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-20 19:33:34.650
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [Scanner [in Scanner.class [in java.util [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-20 19:33:34.652
+!MESSAGE Scanner [in Scanner.class [in java.util [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-20 19:34:37.854
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [InputStreamReader {key=Ljava/io/InputStreamReader;} [in InputStreamReader.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-20 19:34:37.854
+!MESSAGE InputStreamReader {key=Ljava/io/InputStreamReader;} [in InputStreamReader.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-20 19:34:59.732
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [File {key=Ljava/io/File;} [in File.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-20 19:34:59.732
+!MESSAGE File {key=Ljava/io/File;} [in File.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-20 19:40:20.302
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [File {key=Ljava/io/File;} [in File.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-20 19:40:20.302
+!MESSAGE File {key=Ljava/io/File;} [in File.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-20 19:44:05.116
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [File {key=Ljava/io/File;} [in File.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-20 19:44:05.116
+!MESSAGE File {key=Ljava/io/File;} [in File.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 19:48:03.541
+!MESSAGE NLS unused message: ContextRunner_2 in: org.eclipse.debug.internal.ui.contextlaunching.ContextMessages
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-20 20:00:25.815
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [File {key=Ljava/io/File;} [in File.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-20 20:00:25.815
+!MESSAGE File {key=Ljava/io/File;} [in File.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-20 20:00:37.745
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [File {key=Ljava/io/File;} [in File.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-20 20:00:37.745
+!MESSAGE File {key=Ljava/io/File;} [in File.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+!SESSION 2018-02-20 20:02:39.539 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.251
+!MESSAGE NLS unused message: line_separator_platform_mac_os_9 in: org.eclipse.core.internal.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.255
+!MESSAGE NLS unused message: ViewsPreference_currentPresentation in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.256
+!MESSAGE NLS unused message: ViewsPreference_currentPresentationFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.256
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.257
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.257
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_yes in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.257
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_no in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.258
+!MESSAGE NLS unused message: ViewsPreference_editors in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.258
+!MESSAGE NLS unused message: ViewsPreference_editors_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.258
+!MESSAGE NLS unused message: ViewsPreference_editors_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.259
+!MESSAGE NLS unused message: ViewsPreference_views in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.259
+!MESSAGE NLS unused message: ViewsPreference_views_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.259
+!MESSAGE NLS unused message: ViewsPreference_views_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.260
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.260
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topRight in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.260
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topLeft in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.261
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_left in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.261
+!MESSAGE NLS unused message: ViewsPreference_traditionalTabs in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.261
+!MESSAGE NLS unused message: ViewsPreference_currentTheme in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.261
+!MESSAGE NLS unused message: ViewsPreference_currentThemeDescription in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.262
+!MESSAGE NLS unused message: ViewsPreference_override in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.262
+!MESSAGE NLS unused message: ViewsPreference_currentThemeFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.263
+!MESSAGE NLS unused message: ViewsPreference_restartRequestJobName in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.263
+!MESSAGE NLS unused message: EditorManager_largeDocumentWarning in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:40.467
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:43.671
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_6 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:43.674
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_7 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:43.675
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_8 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:43.675
+!MESSAGE NLS unused message: LaunchConfigurationType_0 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:43.676
+!MESSAGE NLS unused message: LaunchConfigurationType_1 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:43.913
+!MESSAGE NLS unused message: NextThreadNavAction_name in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:43.914
+!MESSAGE NLS unused message: PreviousThreadNavAction_name in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:44.388
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightMatchingBrackets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:44.489
+!MESSAGE NLS unused message: GotoMatchingBracket_error_invalidSelection in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:45.762
+!MESSAGE NLS unused message: StandardVMType_Standard_VM_not_supported_on_MacOS__1 in: org.eclipse.jdt.internal.launching.LaunchingMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:45.947
+!MESSAGE NLS unused message: QuickAccess_PressKeyToShowInitialMatches in: org.eclipse.ui.internal.quickaccess.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:46.387
+!MESSAGE NLS unused message: JavaDetailFormattersManager_9 in: org.eclipse.jdt.internal.debug.ui.DebugUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:02:46.634
+!MESSAGE NLS unused message: StepIntoSelectionActionDelegate_Step_into_selection_only_available_in_Java_editor__4 in: org.eclipse.jdt.internal.debug.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-20 20:03:01.180
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\惠普'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:03:53.420
+!MESSAGE NLS unused message: JavadocHover_noAttachments in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:03:53.421
+!MESSAGE NLS unused message: JavadocHover_noAttachedSource in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:03:53.421
+!MESSAGE NLS unused message: JavadocHover_noAttachedJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:03:53.422
+!MESSAGE NLS unused message: JavadocHover_noInformation in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:03:53.422
+!MESSAGE NLS unused message: JavadocHover_error_gettingJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:03:53.422
+!MESSAGE NLS unused message: ProblemHover_chooseSettingsTypeDialog_button_cancel in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:05:36.620
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_LocalCorrectionsSubProcessor_qualify_right_hand_side_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:05:50.113
+!MESSAGE NLS unused message: LaunchConfigurationTabGroupViewer_0 in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:05:50.114
+!MESSAGE NLS unused message: LaunchConfigurationTabGroupViewer_19 in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:05:50.114
+!MESSAGE NLS unused message: LaunchConfigurationDialog_Cancel_3 in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-20 20:06:12.697
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [FileNotFoundException {key=Ljava/io/FileNotFoundException;} [in FileNotFoundException.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-20 20:06:12.698
+!MESSAGE FileNotFoundException {key=Ljava/io/FileNotFoundException;} [in FileNotFoundException.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-20 20:06:21.595
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [FileNotFoundException {key=Ljava/io/FileNotFoundException;} [in FileNotFoundException.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-20 20:06:21.595
+!MESSAGE FileNotFoundException {key=Ljava/io/FileNotFoundException;} [in FileNotFoundException.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-20 20:08:39.611
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [FileNotFoundException {key=Ljava/io/FileNotFoundException;} [in FileNotFoundException.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-20 20:08:39.611
+!MESSAGE FileNotFoundException {key=Ljava/io/FileNotFoundException;} [in FileNotFoundException.class [in java.io [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-20 20:11:07.703
+!MESSAGE NLS unused message: TargetPlatformResetJob_resetTarget in: org.eclipse.pde.internal.core.pderesources
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-20 20:23:57.682
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [String {key=Ljava/lang/String;} [in String.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-20 20:23:57.682
+!MESSAGE String {key=Ljava/lang/String;} [in String.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-02-20 20:24:19.334
+!MESSAGE 内部错误
+!STACK 1
+Java Model Exception: Java Model Status [System [in System.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:499)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:694)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:612)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:604)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2018-02-20 20:24:19.334
+!MESSAGE System [in System.class [in java.lang [in D:\编译器&编辑器\Java\eclipse\jre\lib\rt.jar]]] 的 Javadoc 格式未知

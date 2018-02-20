@@ -1,0 +1,117 @@
+package findPath;
+import java.util.Scanner;
+
+public class FindPath {
+	static int startPoint,startFloor,startBuliding;
+	static int endPoint,endFloor,endBuliding;
+	static int [] minPath;
+	static int minPoint;
+	Dijkstra dij;
+	
+	//l->楼号减,r->楼号加,n->不能移动楼号
+	private static char transBulidingWay[][][] = {
+		//每一维分别为楼、楼层、所在点
+		{
+			{'l','n','r',},		
+			{'l','n','r',},
+		},
+		
+		{
+			{'l','n','r',},
+		},
+	};
+	//结束后在新楼的位置
+	private static int transBulidingEnd[][][] = {
+		//每一维分别为楼、楼层、所在点
+		{
+			{0,1,2,},			
+			{0,1,2,},
+		},
+		
+		{
+			{0,1,2,},
+		},
+	};
+	
+	//c->能移动楼层,n->不能移动楼层
+	private static char transFloorWay[][][] = {
+		//每一维分别为楼、楼层、所在点
+		{
+			{'c','n','n',},		
+			{'c','n','n',},	
+		},
+		
+		{
+			{'c','n','n',},	
+		},
+	};
+		
+	public static void main(String[] args) {
+		while(sureBulidingWay != 'n'){
+			
+		}
+		
+	}
+	
+	FindPath(){
+		System.out.println("输入输入顺序:开始点 层 楼 结束点 层 楼");
+		Scanner input=new Scanner(System.in);
+		startPoint = input.nextInt();
+		startFloor = input.nextInt();
+		startBuliding = input.nextInt();
+		endPoint = input.nextInt();
+		endFloor = input.nextInt();
+		endBuliding = input.nextInt();
+		input.close();
+	}
+	
+	//point floor buliding
+	FindPath(int startP,int startF,int startB,int endP,int endF,int endB){
+		startPoint = startP;
+		startFloor = startF;
+		startBuliding = startB;
+		endPoint = endP;
+		endFloor = endF;
+		endBuliding = endB;
+	}
+	
+	//确定方向，从数组匹配
+	public char sureBulidingWay(){
+		if(startBuliding > endBuliding){
+			return 'l';
+		}
+		else if(startBuliding < endBuliding){
+			return 'r';
+		}
+		else{
+			return  'n';
+		}
+	}
+	
+	public char sureFloorWay(){
+		if(startFloor == endFloor){
+			return 'n';
+		}
+		else{
+			return 'c';
+		}
+	}
+	
+	//从transBulidingEnd查询开始点(从现实情况考虑，楼层不会变)
+	public void resetStartPoint(int transPoint,int transFloor,int transBuliding){
+		startPoint = transBulidingEnd[transBuliding][transFloor][transPoint];
+	}
+	
+	//根据transFloorWay决定楼号变化，
+	public void resetStartBuilding(int transPoint,int transFloor,int transBuliding){
+		if(transFloorWay[transBuliding][transFloor][transPoint]== 'r'){
+			startBuliding++;
+			resetStartPoint(transPoint,transFloor,transBuliding);
+		}
+		else if(transFloorWay[transBuliding][transFloor][transPoint]== 'l'){
+			startBuliding--;
+			resetStartPoint(transPoint,transFloor,transBuliding);
+		}
+	}
+
+}
