@@ -9,15 +9,9 @@ public class Dijkstra {
 	//常量
     private static int N = Integer.MAX_VALUE/2;
     private static int[][] Graph = {
-        { 0, 1, 5, N, N, N, N, N, N },
-        { 1, 0, 3, 7, 5, N, N, N, N },
-        { 5, 3, 0, N, 1, 7, N, N, N },
-        { N, 7, N, 0, 2, N, 3, N, N },
-        { N, 5, 1, 2, 0, 3, 6, 9, N },
-        { N, N, 7, N, 3, 0, N, 5, N },
-        { N, N, N, 3, 6, N, 0, 2, 7 },
-        { N, N, N, N, 9, 5, 2, 0, 4 },
-        { N, N, N, N, N, N, 7, 4, 0 },
+        { 0, 1, 1,},
+        { 1, 0, 1,},
+        { 1, 1, 0,},
     };
     private static int NUM = Graph[0].length;
     
@@ -130,8 +124,8 @@ public class Dijkstra {
     	return NUM;
     }
     
-    public static int getDist(int point){
-    	return dist[point];
+    public static int getDist(int endPoint){
+    	return dist[endPoint];
     }
     
     public static int [] getPath(int point){
@@ -143,12 +137,19 @@ public class Dijkstra {
     }
     
     public void resetGraph(int buliding,int floor) throws FileNotFoundException{
-    	//重置Graph
+    	//重置Graph等成员
     	Graph = null;
+    	dist = null;
+    	path = null;
+    	flag = null;
     	String filePath = "./maps/" + buliding + "/" + floor + ".txt";//位置：maps/楼号/楼层.txt
     	File file = new File(filePath);
     	Scanner scanner = new Scanner(file);
+    	//根据NUM，重新分配空间
     	NUM = scanner.nextInt();
+    	flag = new boolean [NUM];
+        dist = new int [NUM];
+        path = new int [NUM][NUM];
     	Graph = new int [NUM][NUM];
     	for(int i = 0;i < NUM;i++){
     		for(int j = 0;j < NUM;j++){
@@ -158,3 +159,4 @@ public class Dijkstra {
     	scanner.close();  	
     }
 }
+

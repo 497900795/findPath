@@ -125,12 +125,14 @@ public class FindPath {
 		if(sureFloorWay(objectFloor) == 'n'){
 			//在同一层
 			Dijkstra dij = new Dijkstra (startPoint);
+			dij.resetGraph(startBuliding, startFloor);
 			dij.dijkstra();
 			System.out.println("导航完成");
 		}
 		
 		else{
 			Dijkstra dij = new Dijkstra (startPoint);
+			dij.resetGraph(startBuliding, startFloor);
 			dij.dijkstra();
 			int NUM = transFloorWay[startBuliding][startFloor].length;
 			for(int i = 0;i < NUM;i++){
@@ -157,6 +159,7 @@ public class FindPath {
 				if(transBulidingWay[startBuliding][startFloor][i] == sureBulidingWay()){
 					find = true;
 					Dijkstra dij = new Dijkstra (startPoint);
+					dij.resetGraph(startBuliding, startFloor);
 					dij.dijkstra();
 					minPoint = i;
 					if(minDist > dij.getDist(i)){
