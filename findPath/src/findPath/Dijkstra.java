@@ -137,7 +137,7 @@ public class Dijkstra {
     }
     
     public void resetGraph(int buliding,int floor) throws FileNotFoundException{
-    	//重置Graph等成员
+    	//重置Graph等成员，防止数组越界和浪费内存
     	Graph = null;
     	dist = null;
     	path = null;
@@ -145,7 +145,8 @@ public class Dijkstra {
     	String filePath = "./maps/" + buliding + "/" + floor + ".txt";//位置：maps/楼号/楼层.txt
     	File file = new File(filePath);
     	Scanner scanner = new Scanner(file);
-    	//根据NUM，重新分配空间
+    	
+    	//根据新读入的NUM，重新分配空间
     	NUM = scanner.nextInt();
     	flag = new boolean [NUM];
         dist = new int [NUM];
