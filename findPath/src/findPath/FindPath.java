@@ -124,15 +124,13 @@ public class FindPath {
 	public static void pathForFloor(int objectFloor) throws FileNotFoundException{//
 		if(sureFloorWay(objectFloor) == 'n'){
 			//在同一层
-			Dijkstra dij = new Dijkstra (startPoint);
-			dij.resetGraph(startBuliding, startFloor);
+			Dijkstra dij = new Dijkstra (startPoint,startFloor,startBuliding);
 			dij.dijkstra();
 			System.out.println("导航完成");
 		}
 		
 		else{
-			Dijkstra dij = new Dijkstra (startPoint);
-			dij.resetGraph(startBuliding, startFloor);
+			Dijkstra dij = new Dijkstra (startPoint,startFloor,startBuliding);
 			dij.dijkstra();
 			int NUM = transFloorWay[startBuliding][startFloor].length;
 			for(int i = 0;i < NUM;i++){
@@ -146,7 +144,7 @@ public class FindPath {
 
 			minPath = dij.getPath(minPoint);
 			minDist = Integer.MAX_VALUE;//复原
-			dij.resetGraph(startBuliding, objectFloor);
+			dij.setInfo(startBuliding, objectFloor);
 		}
 	}
 	
@@ -158,8 +156,7 @@ public class FindPath {
 			for(int i = 0;i < NUM;i++){
 				if(transBulidingWay[startBuliding][startFloor][i] == sureBulidingWay()){
 					find = true;
-					Dijkstra dij = new Dijkstra (startPoint);
-					dij.resetGraph(startBuliding, startFloor);
+					Dijkstra dij = new Dijkstra (startPoint,startFloor,startBuliding);
 					dij.dijkstra();
 					minPoint = i;
 					if(minDist > dij.getDist(i)){
@@ -175,8 +172,7 @@ public class FindPath {
 				resetStartPoint(minPoint,startFloor,startBuliding);
 				minDist = Integer.MAX_VALUE;//复原
 				resetStartBuilding(minPoint,startFloor,startBuliding);
-				Dijkstra dij = new Dijkstra (startPoint);
-				dij.resetGraph(startBuliding, startFloor);
+				Dijkstra dij = new Dijkstra (startPoint,startFloor,startBuliding);
 			}
 			else{
 				//不能则转换楼层，到能转换的楼层后进行转换

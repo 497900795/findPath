@@ -1,77 +1,32 @@
 package findPath;
 import java.util.Scanner;
-import java.io.BufferedReader;  
 import java.io.File;  
-import java.io.FileInputStream;  
 import java.io.FileNotFoundException;
-import java.io.InputStreamReader;
+
 public class Dijkstra {
 	//常量
-    private static int N = Integer.MAX_VALUE/2;
     private static int[][] Graph = {
-        { 0, 1, 1,},
-        { 1, 0, 1,},
-        { 1, 1, 0,},
     };
-    private static int NUM = Graph[0].length;
-    
+    private static int NUM;
     //变量
     private static int start;
     private static int end;
-    private static boolean [] flag = new boolean [NUM];
-    private static int [] dist = new int [NUM];
-    private static int [][]  path = new int [NUM][NUM];
+    private static boolean [] flag;
+    private static int [] dist;
+    private static int [][]  path;
     //函数
-    Dijkstra(){
-    	Scanner input=new Scanner(System.in);
-    	System.out.print("请输入开始结点:");		
-    	start = input.nextInt();
-    	System.out.print("请输入目标结点:");
-    	end = input.nextInt();
-    	input.close();
-    	//path初始化
-    	for(int i = 0;i < NUM;i++){
-    		flag[i] = false;
-    		dist[i] = Graph[start][i];
-    		for(int j = 0;j < NUM;j++){
-    			path[i][j] = -1;
-    		}
-    		if(dist[i] != 0 && dist[i] != N){
-    			path[i][0] = start;
-    		}
-    	}
-    	dist[start] = 0;
-    	flag[start] = true;
-    }
     
-    Dijkstra(int inStart,int inEnd){
-    	start = inStart;
-    	end = inEnd;
+    Dijkstra(int startPoint,int startFloor,int startBuliding) throws FileNotFoundException{
+    	start = startPoint;
     	//path初始化
+    	setInfo(startBuliding,startFloor);
     	for(int i = 0;i < NUM;i++){
     		flag[i] = false;
     		dist[i] = Graph[start][i];
     		for(int j = 0;j < NUM;j++){
     			path[i][j] = -1;
     		}
-    		if(dist[i] != 0 && dist[i] != N){
-    			path[i][0] = start;
-    		}
-    	}
-    	dist[start] = 0;
-    	flag[start] = true;
-    }
-     
-    Dijkstra(int inStart){
-    	start = inStart;
-    	//path初始化
-    	for(int i = 0;i < NUM;i++){
-    		flag[i] = false;
-    		dist[i] = Graph[start][i];
-    		for(int j = 0;j < NUM;j++){
-    			path[i][j] = -1;
-    		}
-    		if(dist[i] != 0 && dist[i] != N){
+    		if(dist[i] != 0 && dist[i] != 1000){
     			path[i][0] = start;
     		}
     	}
@@ -136,7 +91,7 @@ public class Dijkstra {
     	end = inEnd;
     }
     
-    public void resetGraph(int buliding,int floor) throws FileNotFoundException{
+    public void setInfo(int buliding,int floor) throws FileNotFoundException{
     	//重置Graph等成员，防止数组越界和浪费内存
     	Graph = null;
     	dist = null;
