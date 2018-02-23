@@ -124,13 +124,13 @@ public class FindPath {
 	public static void pathForFloor(int objectFloor) throws FileNotFoundException{//
 		if(sureFloorWay(objectFloor) == 'n'){
 			//在同一层
-			Dijkstra dij = new Dijkstra (startPoint,startFloor,startBuliding);
+			Dijkstra dij = new Dijkstra (startPoint);
 			dij.dijkstra();
 			System.out.println("导航完成");
 		}
 		
 		else{
-			Dijkstra dij = new Dijkstra (startPoint,startFloor,startBuliding);
+			Dijkstra dij = new Dijkstra (startPoint);
 			dij.dijkstra();
 			int NUM = transFloorWay[startBuliding][startFloor].length;
 			for(int i = 0;i < NUM;i++){
@@ -144,7 +144,7 @@ public class FindPath {
 
 			minPath = dij.getPath(minPoint);
 			minDist = Integer.MAX_VALUE;//复原
-			dij.setInfo(startBuliding, objectFloor);
+			dij.resetGraph(startBuliding, objectFloor);
 		}
 	}
 	
@@ -156,7 +156,7 @@ public class FindPath {
 			for(int i = 0;i < NUM;i++){
 				if(transBulidingWay[startBuliding][startFloor][i] == sureBulidingWay()){
 					find = true;
-					Dijkstra dij = new Dijkstra (startPoint,startFloor,startBuliding);
+					Dijkstra dij = new Dijkstra (startPoint);
 					dij.dijkstra();
 					minPoint = i;
 					if(minDist > dij.getDist(i)){
@@ -172,21 +172,22 @@ public class FindPath {
 				resetStartPoint(minPoint,startFloor,startBuliding);
 				minDist = Integer.MAX_VALUE;//复原
 				resetStartBuilding(minPoint,startFloor,startBuliding);
-				Dijkstra dij = new Dijkstra (startPoint,startFloor,startBuliding);
+				Dijkstra dij = new Dijkstra (startPoint);
+				dij.resetGraph(startBuliding, startFloor);
 			}
 			else{
 				//不能则转换楼层，到能转换的楼层后进行转换
 				boolean can = false;
 				for(int i = 0;!can;i++){//楼层
 					for(int j = 0;j < NUM;j++){//点
-						if(transBulidingWay[startBuliding][startFloor-i][j] == sureBulidingWay()){
+						if(transBulidingWay[startBuliding][startFloor-j][i] == sureBulidingWay()){
 							can = true;
-							startFloor = startFloor - i;
+							startFloor = startFloor - j;
 							break;
 						}
-						else if(transBulidingWay[startBuliding][startFloor+i][j] == sureBulidingWay()){
+						else if(transBulidingWay[startBuliding][startFloor+j][i] == sureBulidingWay()){
 							can = true;
-							startFloor = startFloor + i;
+							startFloor = startFloor + j;
 							break;
 						}
 					}
