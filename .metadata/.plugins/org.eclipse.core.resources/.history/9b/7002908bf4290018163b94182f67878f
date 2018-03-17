@@ -59,14 +59,12 @@ public class FindPath {
 	FindPath(){
 		System.out.println("输入输入顺序:开始楼 层 点 结束楼 层 点");
 		Scanner input=new Scanner(System.in);
-		//start information
-		startBuliding = input.nextInt();
-		startFloor = input.nextInt();
 		startPoint = input.nextInt();
-		//end information
-		endBuliding = input.nextInt();
+		startFloor = input.nextInt();
+		startBuliding = input.nextInt();
+		endPoint = input.nextInt();
 		endFloor = input.nextInt();
-		endPoint= input.nextInt();
+		endBuliding = input.nextInt();
 		input.close();
 	}
 	
